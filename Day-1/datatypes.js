@@ -1,0 +1,5 @@
+console.log(typeof 'Egemen')
+console.log(typeof false)
+console.log(typeof 100)
+console.log(typeof null)
+console.log('Ah bu şarkıların gözü kör olsun.')
