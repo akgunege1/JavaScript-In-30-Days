@@ -17,3 +17,4 @@ console.log(`The circumference of a circle is ${circumference}`)
 let workHours = prompt('Weekly Hour', 'Enter Hour');
 let rate = prompt('Rate per Hour','Rate per Hour');
 console.log(`Your weekly earning is ${workHours*rate}`);
+
