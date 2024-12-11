@@ -26,4 +26,4 @@ console.log(numbers) // -> [2,3,4,5]
 /*
 webTechs.sort()
 console.log(webTechs) // ["CSS", "HTML", "JavaScript", "MongoDB", "Node", "React", "Redux"]
-*/
+*/  //Alfabetik Sıralama.

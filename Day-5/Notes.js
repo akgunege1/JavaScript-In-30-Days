@@ -19,5 +19,10 @@ console.log(eightXvalues) // ['X', 'X','X','X','X','X','X','X']
 
 /*
 const numbers = [1, 2, 3, 4, 5]
-console.log(Array.isArray(numbers)) // true
+console.log(Array.isArray(numbers)) // true     Bir şeyin dizi olup olmadığını Array.isArray() ile test edebiliriz.
+*/
+
+/*
+const numbers = [1, 2, 3, 4, 5]
+console.log(numbers.toString()) // 1,2,3,4,5     Diziden Stringe dönüşüm.
 */
