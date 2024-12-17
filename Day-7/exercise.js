@@ -24,6 +24,8 @@ function areaOfCircle(r){
     return ans;
 }
 
+
+
 const convertCelsiusToFahreheit = n => (n * 9 / 5) + 32;
 
 console.log(`It is 9 oC outside. ${convertCelsiusToFahreheit(9)} in oF.`)
